@@ -1,0 +1,26 @@
+{
+  "name": "pk-postal-code",
+  "version": "0.0.1",
+  "description": "Pakistan postal code data collection",
+  "main": "/data",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pkgeography/pk-postal-code.git"
+  },
+  "keywords": [
+    "Pakistan",
+    "postal",
+    "code",
+    "data"
+  ],
+  "author": "Jabran Rafique <hello@jabran.me>",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/pkgeography/pk-postal-code/issues"
+  },
+  "homepage": "https://github.com/pkgeography/pk-postal-code",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "xls-to-json": "~0.3.1"
+  }
+}
