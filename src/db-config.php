@@ -8,13 +8,13 @@
 define("DBHOST", "localhost");
 
 // Database name
-define("DB", "");
+define("DB", "test");
 
 // Database username
-define("DBUSER", "");
+define("DBUSER", "root");
 
 // Database password
-define("DBPASSWORD", "");
+define("DBPASSWORD", "p@ssword");
 
 // Table name
-define("DBTBL", "");
+define("DBTBL", "pak_post");
