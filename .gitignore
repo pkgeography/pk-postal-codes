@@ -2,4 +2,4 @@
 .sass-cache
 node_modules
 bower_components
-src/db-config.php
+src/_db-config.php
